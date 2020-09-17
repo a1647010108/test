@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/123/123.iml" filepath="$PROJECT_DIR$/123/123.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/webtest/webtest.iml" filepath="$PROJECT_DIR$/webtest/webtest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/发生的/发生的.iml" filepath="$PROJECT_DIR$/发生的/发生的.iml" />
       <module fileurl="file://$PROJECT_DIR$/大数据分析/大数据分析.iml" filepath="$PROJECT_DIR$/大数据分析/大数据分析.iml" />
     </modules>
   </component>

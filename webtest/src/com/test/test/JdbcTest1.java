@@ -19,6 +19,7 @@ public class JdbcTest1 {
      * 关闭连接释放资源
      */
     public static void main(String[] args) throws SQLException {
+
         //注册驱动
         DriverManager.registerDriver(new Driver());
         //获得连接
